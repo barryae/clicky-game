@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/clicky-game/static/js/main.3fbb6b6d.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.3fbb6b6d.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.39dcd64a.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.39dcd64a.js.map",
+    "static/js/2.96b072e9.chunk.js": "/clicky-game/static/js/2.96b072e9.chunk.js",
+    "static/js/2.96b072e9.chunk.js.map": "/clicky-game/static/js/2.96b072e9.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.d3bb54f3c5c155ff064dbda145f991ca.js": "/clicky-game/precache-manifest.d3bb54f3c5c155ff064dbda145f991ca.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/js/2.96b072e9.chunk.js.LICENSE": "/clicky-game/static/js/2.96b072e9.chunk.js.LICENSE",
+    "static/media/bird1.jpg": "/clicky-game/static/media/bird1.ac3a0411.jpg",
+    "static/media/bird10.jpg": "/clicky-game/static/media/bird10.fb96837e.jpg",
+    "static/media/bird11.jpg": "/clicky-game/static/media/bird11.836a848a.jpg",
+    "static/media/bird12.jpg": "/clicky-game/static/media/bird12.09c3c572.jpg",
+    "static/media/bird2.jpg": "/clicky-game/static/media/bird2.3389cb2d.jpg",
+    "static/media/bird3.png": "/clicky-game/static/media/bird3.7354752b.png",
+    "static/media/bird4.jpg": "/clicky-game/static/media/bird4.63873b65.jpg",
+    "static/media/bird5.jpg": "/clicky-game/static/media/bird5.a31f782d.jpg",
+    "static/media/bird6.jpg": "/clicky-game/static/media/bird6.36add9e1.jpg",
+    "static/media/bird7.jpg": "/clicky-game/static/media/bird7.34001aaa.jpg",
+    "static/media/bird8.jpg": "/clicky-game/static/media/bird8.22b16a2d.jpg",
+    "static/media/bird9.jpg": "/clicky-game/static/media/bird9.c7dfc338.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39dcd64a.js",
+    "static/js/2.96b072e9.chunk.js",
+    "static/js/main.3fbb6b6d.chunk.js"
+  ]
+}
